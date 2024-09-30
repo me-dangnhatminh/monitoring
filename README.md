@@ -1,16 +1,16 @@
 node-exporter
 # Monitoring Tools
 
-This project includes the following monitoring tools:
+This project includes several monitoring tools:
 
 - **cAdvisor**: Analyzes resource usage and performance characteristics of running containers.
 - **Grafana**: Provides dashboards and visualizations for time-series data.
 - **Prometheus**: A monitoring system and time-series database.
-- **Alertmanager**: Handles alerts sent by client applications such as Prometheus.
+- **Alertmanager**: Manages alerts sent by client applications like Prometheus.
 
 ## Getting Started
 
-To get started with these tools, follow the instructions below.
+Follow the instructions below to get started with these tools.
 
 ### Prerequisites
 
@@ -44,3 +44,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License.
 
+## References
+
+For more information, visit [this link](https://devopsedu.vn/xay-dung-he-thong-giam-sat-toan-dien-thuc-te/).
